@@ -1,0 +1,48 @@
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\bin\Debug\MidProjectDb.exe.config
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\bin\Debug\MidProjectDb.exe
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\bin\Debug\MidProjectDb.pdb
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.csproj.AssemblyReference.cache
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.Properties.Resources.resources
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.csproj.GenerateResource.cache
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.csproj.CoreCompileInputs.cache
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.exe
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.pdb
+D:\fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.dashBoard.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\bin\Debug\MidProjectDb.exe.config
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\bin\Debug\MidProjectDb.exe
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\bin\Debug\MidProjectDb.pdb
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.csproj.AssemblyReference.cache
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.dashBoard.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.Properties.Resources.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.EnrolledStudents.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.csproj.GenerateResource.cache
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.csproj.CoreCompileInputs.cache
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.exe
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.pdb
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.ResultPanel.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmViewRegisteredStudent.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmAddSt.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmUpadtSt.resources
+D:\4 fourth Semester\dbLab\LabProject\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmDeleteSt.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\bin\Debug\MidProjectDb.exe.config
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\bin\Debug\MidProjectDb.exe
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\bin\Debug\MidProjectDb.pdb
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.csproj.AssemblyReference.cache
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.dashBoard.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.Properties.Resources.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.EnrolledStudents.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmAddSt.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmDeleteSt.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmUpadtSt.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmViewRegisteredStudent.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.ResultPanel.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.csproj.GenerateResource.cache
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.csproj.CoreCompileInputs.cache
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.exe
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.pdb
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmAttendence.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmClo.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmAssessComp.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.frmAssessmenct.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.UserPanels.Result.resources
+D:\4 fourth Semester\dbLab\dblabproject-master\MidProjectDb\obj\Debug\MidProjectDb.frmAllResult.resources

@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|d:\\4 fourth semester\\dblab\\dblabproject-master\\midprojectdb\\userpanels\\frmattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|solutionrelative:userpanels\\frmattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\userpanels\\frmattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|solutionrelative:userpanels\\frmattendence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\userpanels\\frmviewregisteredstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|solutionrelative:userpanels\\frmviewregisteredstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}|MidProjectDb.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAttendence.cs",
+              "DocumentMoniker": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\UserPanels\\frmAttendence.cs",
+              "RelativeDocumentMoniker": "UserPanels\\frmAttendence.cs",
+              "ToolTip": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\UserPanels\\frmAttendence.cs*",
+              "RelativeToolTip": "UserPanels\\frmAttendence.cs*",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAhwBMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:24:25.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAttendence.cs [Design]",
+              "DocumentMoniker": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\UserPanels\\frmAttendence.cs",
+              "RelativeDocumentMoniker": "UserPanels\\frmAttendence.cs",
+              "ToolTip": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\UserPanels\\frmAttendence.cs [Design]",
+              "RelativeToolTip": "UserPanels\\frmAttendence.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:24:21.096Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmViewRegisteredStudent.cs [Design]",
+              "DocumentMoniker": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\UserPanels\\frmViewRegisteredStudent.cs",
+              "RelativeDocumentMoniker": "UserPanels\\frmViewRegisteredStudent.cs",
+              "ToolTip": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\UserPanels\\frmViewRegisteredStudent.cs [Design]",
+              "RelativeToolTip": "UserPanels\\frmViewRegisteredStudent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T06:34:27.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\4 fourth Semester\\dbLab\\dblabproject-master\\MidProjectDb\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T04:28:33.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

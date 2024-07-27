@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C8C2DB31-8F14-4D4C-8EB6-2B75F06E602A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MidProjectDb</RootNamespace>
+    <AssemblyName>MidProjectDb</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="commonFunctions.cs" />
+    <Compile Include="Configuration.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAllResult.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="frmAllResult.Designer.cs">
+      <DependentUpon>frmAllResult.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserPanels\EnrolledStudents.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\EnrolledStudents.Designer.cs">
+      <DependentUpon>EnrolledStudents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmAddSt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmAddSt.Designer.cs">
+      <DependentUpon>frmAddSt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmAssessComp.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmAssessComp.Designer.cs">
+      <DependentUpon>frmAssessComp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmAssessmenct.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmAssessmenct.Designer.cs">
+      <DependentUpon>frmAssessmenct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmAttendence.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmAttendence.Designer.cs">
+      <DependentUpon>frmAttendence.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmClo.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmClo.Designer.cs">
+      <DependentUpon>frmClo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmDeleteSt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmDeleteSt.Designer.cs">
+      <DependentUpon>frmDeleteSt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmUpadtSt.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmUpadtSt.Designer.cs">
+      <DependentUpon>frmUpadtSt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\frmViewRegisteredStudent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\frmViewRegisteredStudent.Designer.cs">
+      <DependentUpon>frmViewRegisteredStudent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\Result.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\Result.Designer.cs">
+      <DependentUpon>Result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserPanels\ResultPanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserPanels\ResultPanel.Designer.cs">
+      <DependentUpon>ResultPanel.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAllResult.resx">
+      <DependentUpon>frmAllResult.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UserPanels\EnrolledStudents.resx">
+      <DependentUpon>EnrolledStudents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmAddSt.resx">
+      <DependentUpon>frmAddSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmAssessComp.resx">
+      <DependentUpon>frmAssessComp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmAssessmenct.resx">
+      <DependentUpon>frmAssessmenct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmAttendence.resx">
+      <DependentUpon>frmAttendence.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmClo.resx">
+      <DependentUpon>frmClo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmDeleteSt.resx">
+      <DependentUpon>frmDeleteSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmUpadtSt.resx">
+      <DependentUpon>frmUpadtSt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\frmViewRegisteredStudent.resx">
+      <DependentUpon>frmViewRegisteredStudent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\Result.resx">
+      <DependentUpon>Result.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserPanels\ResultPanel.resx">
+      <DependentUpon>ResultPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
